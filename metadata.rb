@@ -1,6 +1,6 @@
 name             'mikitad-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Dan Mikita'
+maintainer_email 'danmikita@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures mikitad-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
